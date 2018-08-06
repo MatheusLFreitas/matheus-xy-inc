@@ -46,7 +46,8 @@ Design Choices:
 	utilização dessa tecnologia atrelada a dispositivos móveis. 
 	
 	2. A facilidade para se trabalhar com geolocalização também foi levada em consideração, visto que a formula da distancia entre dois pointos,
-	que é baseada no teorema de pitágoras, não é muito elegante resolver por linguagem sql.
+	que é baseada no teorema de pitágoras, não é muito elegante resolver por linguagem sql. 
+		Embora os bancos sql também possuam tipo de dado para geolocalização atualmente.
 	
 	3. Geralmente, esses bancos são bem escalares, além de possibilitar trabalhar offline muito mais facilmente.
 	
