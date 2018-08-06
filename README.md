@@ -53,6 +53,6 @@ Design Choices:
 	
 Nota final:
 
-	Para seguir a especificação, utilizei um DTO para receber coordenadas em inteiro não negativo, entretanto, a camada interna de banco de dados,
+Para seguir a especificação, utilizei um DTO para receber coordenadas em inteiro não negativo, entretanto, a camada interna de banco de dados,
 está preparada para trabalhar com geolocalização nativa. 
-	O java não possui um tipo de dado unassigned para inteiro, portanto utilizei o long.
+O java não possui um tipo de dado unassigned para inteiro, portanto utilizei o long.
