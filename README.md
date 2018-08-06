@@ -28,12 +28,12 @@ TODO LIST:
 
 - Web: 
    
-    1. Implementar completamente HATEOAS. Começei a criar, mas não deu tempo. Reparem que a url da busca é /search/findByLocationNear, 
-  um padrão utilizado pelo HATEOAS.
+    1. Implementar completamente HATEOAS. Começei a fazer, mas não consegui entregar a funcionalidade. 
+	   Reparem que a url da busca é /search/findByLocationNear, um padrão utilizado pelo HATEOAS.
 
 - Testes: 
 	1. Faltam muitos testes, principalmente unitários, os testes atualmente implementados são de integração, pois envolvem diversas rotinas.
-    2. Ainda nos testes, eu queria ter colocado para rodar os testes com o mockito, mas também não deu tempo.
+    2. Ainda sobre os testes, o mais interessante seria utilizar o mockito, que é bem mais leve e apropriado.
 		  
 - Documentação:
     1. Faltou documentar com o padrão JavaDoc. Normalmente, em produção, esses códigos sairiam documentados.
